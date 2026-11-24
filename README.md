@@ -123,37 +123,6 @@ You can use this AI for your private data as no data EVER leaves your system.
 
 ---
 
-## 🏫 Perfect For:
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-# 🏢
-
-**Schools and colleges**
-
-with old lab PCs
-
-</td>
-<td align="center" width="50%">
-
-# 👨‍💼
-
-**Office environments**
-
-with budget systems
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🛠️ Status
 
 HyperInfinity is still being finalized. Key tasks remaining:
